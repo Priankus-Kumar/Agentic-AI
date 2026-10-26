@@ -1,0 +1,1 @@
+@install the npm i express dotenv and googlegemini api
